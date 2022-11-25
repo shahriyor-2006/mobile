@@ -1,2 +1,2 @@
 # mobile
-(https://shahriyor-2006.github.io/mobile/)[upload]
+[upload](https://shahriyor-2006.github.io/mobile/)
