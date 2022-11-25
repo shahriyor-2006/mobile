@@ -1,0 +1,139 @@
+@media screen and (max-width: 500px){
+
+	.container{
+		width: 500px;
+		height: 2550px;
+		margin-top: -80px;
+	}
+	.row{
+		width: 500px;
+		margin-left: 30px;
+	}
+	.hleft .logo{
+		font-size: 40px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		text-align: center;
+		
+		
+	}
+
+	.hright{
+		float: none;
+
+		
+
+		
+	}
+	.hright ul{
+		float: none;
+		margin-left: 50px;
+		
+		
+
+	}
+	.hright ul li{
+		margin-left: 	5px;
+	}
+	.webdesign, .active{
+		font-size: 28px;
+		margin-left: 	20px;
+	}
+	.solutions{
+		font-size: 25px;
+		margin-left: 	20px;
+	}
+	.sometext{
+		font-size: 16px;
+		width: 420px;
+		text-align: 	center;	
+	}
+	.dots{
+		width: 450px;
+	}
+	.blue1, .blue2, .blue3{
+		float: none;
+		width: 420px;
+		margin-bottom: 20px;
+		height: 300px;
+
+	}
+
+	.space{
+		width: 300px;
+
+	}
+	.blue2, .blue3{
+		margin-left: 0px;
+	}
+	.insidetext1{
+		font-size: 18px;
+		margin-top: 10px;
+		text-align: 	center;	
+	}
+	.marketing{
+		font-size: 38px;
+		text-align: center;
+		margin-bottom: 	10px;
+	}
+	.blue3 .insidebutton1 a{
+	margin-left: 50px;
+	margin-top: 30px;
+    }
+    .bottomright{
+    	float: none;
+    	margin-left: -30px;
+    	margin-top: 20px;
+    }
+    .dots1{
+    	width: 420px;
+    }
+    .dots2{
+    	width: 420px;
+    }
+    .dots3{
+    	width: 320px;
+    }
+    .dots4{
+    	width: 420px;
+    	margin-top: -250px;
+
+    }
+    .insidebutton1{
+    	margin-left: 	30px;
+    }
+    .details{
+    	position: relative;
+    }
+    .copy{
+    	position: absolute;
+    	top: 2500px;
+    	left: 25px;
+    }
+    .dots1{
+    	display: none;
+    }
+    .coment1{
+    	font-size: 	12px;
+    	width: 	430px;
+    }
+    .project, .campaign{
+    	text-align: 	center;
+    	margin-bottom: 	10px;
+
+    }
+    .bottomleft{
+    	margin-top: 	-0px;
+    }
+    .bottom{
+    	width: 500px;
+    }
+
+    
+
+
+
+	}
+
+
+	
